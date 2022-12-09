@@ -1,0 +1,1 @@
+contains both backend and frontend projects for BuyMeACoffee dapp
